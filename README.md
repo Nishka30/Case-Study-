@@ -1,9 +1,6 @@
 <h1 align="center">
 📈 Angel One App Onboarding Redesign
 </h1>
-
-# Angel One Onboarding Redesign Assignment
-
 ---
 
 ## Project Overview
